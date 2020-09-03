@@ -27,7 +27,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     MaterialModule,
     ReactiveFormsModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyA9HdlUTfk3I0ThctYaK8b5mBeb1UxXaLc'
+      apiKey: 'Api key googleMaps - https://console.cloud.google.com/google/maps-apis/'
     })
   ],
   providers: [],
